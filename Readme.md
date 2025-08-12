@@ -11,10 +11,14 @@ Always learning, always experimenting, always shipping 🚀.
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stericishere&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  
+  <!-- GitHub Activity Graph -->
+  [![Steric's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stericishere&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+  <!-- Most Used Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stericishere&layout=compact&theme=dracula" height="150" alt="languages graph"/>
+  
 </div>
-
 ---
 ### 🤖 About Me
 - 🔬 **Research**: ML Systems, Reinforcement Learning, AI Agents
