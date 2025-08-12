@@ -18,8 +18,7 @@ Always learning, always experimenting, always shipping 🚀.
   <!-- Most Used Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stericishere&layout=compact&theme=dracula" height="150" alt="languages graph"/>
 
-  [![Steric's GitHub stats](https://github-readme-stats.vercel.app/api?username=stericishere&show_icons=true&theme=dracula&count_private=true)]
-  [![GitHub Streak](https://streak-stats.demolab.com?user=stericishere&theme=dracula&hide_border=false)]
+  <!-- [![Steric's GitHub stats](https://github-readme-stats.vercel.app/api?username=stericishere&show_icons=true&theme=dracula&count_private=true)] -->
 
 </div>
 
