@@ -14,9 +14,6 @@ Always learning, always experimenting, always shipping 🚀.
   
   <!-- GitHub Activity Graph -->
   [![Steric's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stericishere&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-  <!-- Most Used Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stericishere&layout=compact&theme=dracula" height="150" alt="languages graph"/>
 
   <!-- [![Steric's GitHub stats](https://github-readme-stats.vercel.app/api?username=stericishere&show_icons=true&theme=dracula&count_private=true)] -->
 
@@ -32,7 +29,9 @@ Always learning, always experimenting, always shipping 🚀.
 ---
 
 ### 🧰 Tech Stack
-
+  <!-- Most Used Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stericishere&layout=compact&theme=dracula" height="150" alt="languages graph"/>
+  
 <div align="left">
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /></a>
   <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" /></a>
