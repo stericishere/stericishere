@@ -22,8 +22,8 @@ Always learning, always experimenting, always shipping 🚀.
 ---
 
 ### 🤖 About Me
-- 🔬 **Research**: Reinforcement Learning, AI Agents, ML Systems
-- 🛠 **Tech Interests**: AI Applications, Agentic Systems, Scalable ML Infrastructure
+- 🔬 **Research**: ML Systems, Reinforcement Learning, AI Agents
+- 🛠 **Tech Interests**: Scalable ML Infrastructure, Agentic Systems, AI Applications
 - 🎯 **Goal**: Build intelligent systems that solve real-world problems with AI-optimized solution
 - 🎮 **Fun Fact**: I Love coffee, hit me up for coffee chat! 🍒
 
