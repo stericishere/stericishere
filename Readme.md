@@ -5,7 +5,7 @@
 
 ### 👾 Just Love Building Cool Stuff
 
-I’m passionate about **Machine Learning** & **AI**, currently doing research in **Reinforcement Learning** and building **AI Agents** for real-world solutions.  
+I’m passionate about **ML** & **AI**, currently doing research in **Reinforcement Learning** and building **AI Agents** for real-world solutions.  
 Always learning, always experimenting, always shipping 🚀.
 
 ---
@@ -24,7 +24,7 @@ Always learning, always experimenting, always shipping 🚀.
 ### 🤖 About Me
 - 🔬 **Research**: Reinforcement Learning, AI Agents, ML Systems
 - 🛠 **Tech Interests**: AI Applications, Agentic Systems, Scalable ML Infrastructure
-- 🎯 **Goal**: Build intelligent systems that solve real-world problems
+- 🎯 **Goal**: Build intelligent systems that solve real-world problems with AI-optimized solution
 - 🎮 **Fun Fact**: My GitHub commits are Pac-Man powered 🍒
 
 ---
