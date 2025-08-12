@@ -25,7 +25,7 @@ Always learning, always experimenting, always shipping 🚀.
 - 🔬 **Research**: Reinforcement Learning, AI Agents, ML Systems
 - 🛠 **Tech Interests**: AI Applications, Agentic Systems, Scalable ML Infrastructure
 - 🎯 **Goal**: Build intelligent systems that solve real-world problems with AI-optimized solution
-- 🎮 **Fun Fact**: My GitHub commits are Pac-Man powered 🍒
+- 🎮 **Fun Fact**: I Love coffee, hit me up for coffee chat! 🍒
 
 ---
 
