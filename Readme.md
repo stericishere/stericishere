@@ -3,50 +3,43 @@
 
 ---
 
-### 👾 Just Love Building Cool Stuff
-
-I’m passionate about **ML** & **AI**, currently doing research in **Reinforcement Learning** and building **AI Agents** for real-world solutions.  
+### 👾 Just Love Building Cool Stuff  
+Passionate about **Machine Learning** and **AI**, I’m currently researching **Reinforcement Learning** and developing **AI Agents** to tackle real-world challenges.  
 Always learning, always experimenting, always shipping 🚀.
 
 ---
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=stericishere&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-<!--   <a href="https://github-readme-streak-stats.herokuapp.com?user=stericishere&theme=dracula">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=stericishere&theme=dracula" height="150" alt="streak graph"/>
-  </a> -->
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=stericishere&layout=compact&theme=dracula">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stericishere&layout=compact&theme=dracula" height="150" alt="languages graph"/>
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=stericishere&layout=compact&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api?username=stericishere&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stericishere&layout=compact&theme=dracula" height="150" alt="languages graph"/>
 </div>
 
 ---
 
 ### 🤖 About Me
-- 🔬 **Research**: ML Systems, Reinforcement Learning, AI Agents
-- 🛠 **Tech Interests**: Scalable ML Infrastructure, Agentic Systems, AI Applications
-- 🎯 **Goal**: Build intelligent systems that solve real-world problems with AI-optimized solution
-- 🎮 **Fun Fact**: I Love coffee, hit me up for coffee chat! 🍒
+- 🔬 **Research**: ML Systems, Reinforcement Learning, AI Agents  
+- 🛠 **Tech Interests**: Scalable ML Infrastructure, Agentic Systems, AI Applications  
+- 🎯 **Goal**: Build intelligent systems that solve real-world problems with AI-optimized solutions  
+- 🎮 **Fun Fact**: I love coffee — always up for a coffee chat! ☕
 
 ---
 
 ### 🧰 Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="40" alt="Neo4j" />
-  <img src="https://banner2.cleanpng.com/20180817/eqe/5f57f9bfeb7fb5ccee9564fa00b5935f.webp" height="40" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
+  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" /></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" /></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" /></a>
+  <a href="https://neo4j.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="40" alt="Neo4j" /></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" /></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" /></a>
+  <a href="https://cloud.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" /></a>
+  <a href="https://www.oracle.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle" /></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" /></a>
 </div>
 
 ---
