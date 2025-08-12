@@ -30,8 +30,10 @@ Always learning, always experimenting, always shipping 🚀.
 
 ### 🧰 Tech Stack
   <!-- Most Used Languages Card -->
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stericishere&layout=compact&theme=dracula" height="150" alt="languages graph"/>
-  
+</div>
+
 <div align="left">
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /></a>
   <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" /></a>
