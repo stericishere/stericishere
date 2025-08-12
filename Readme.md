@@ -3,11 +3,12 @@
 
 ---
 
-### 👾 Just Love Building Cool Stuff  
-Passionate about **Machine Learning** and **AI**, I’m currently researching **Reinforcement Learning** and developing **AI Agents** to tackle real-world challenges.  
+### 👾 Just Love Building Cool Stuff
+I’m passionate about **ML** & **AI**, currently doing research in **Reinforcement Learning** and building **AI Agents** for real-world solutions.  
 Always learning, always experimenting, always shipping 🚀.
 
 ---
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=stericishere&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
@@ -15,11 +16,10 @@ Always learning, always experimenting, always shipping 🚀.
 </div>
 
 ---
-
 ### 🤖 About Me
-- 🔬 **Research**: ML Systems, Reinforcement Learning, AI Agents  
-- 🛠 **Tech Interests**: Scalable ML Infrastructure, Agentic Systems, AI Applications  
-- 🎯 **Goal**: Build intelligent systems that solve real-world problems with AI-optimized solutions  
+- 🔬 **Research**: ML Systems, Reinforcement Learning, AI Agents
+- 🛠 **Tech Interests**: Scalable ML Infrastructure, Agentic Systems, AI Applications
+- 🎯 **Goal**: Build intelligent systems that solve real-world problems with AI-optimized solution 
 - 🎮 **Fun Fact**: I love coffee — always up for a coffee chat! ☕
 
 ---
