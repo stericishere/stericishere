@@ -1,4 +1,4 @@
-<h1 align="center">Helloo 👋! I'm Steric</h1>
+<h1 align="center">Helloo Guyss👋! I'm Steric</h1>
 <h3 align="center">Computer Science & Statistics Student @ UofT | Based in Toronto 🍁</h3>
 
 ---
