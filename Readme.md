@@ -7,7 +7,7 @@
 I’m passionate about **ML** & **AI**, currently doing research in **Reinforcement Learning** and building **AI Agents** for real-world solutions.  
 - Always Learning
 - Always Experimenting
-- Always Shipping 🚀.
+- Always Shipping 🚀
 
 ---
 
