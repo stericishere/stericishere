@@ -5,7 +5,9 @@
 
 ### 👾 Just Love Building Cool Stuff
 I’m passionate about **ML** & **AI**, currently doing research in **Reinforcement Learning** and building **AI Agents** for real-world solutions.  
-Always learning, always experimenting, always shipping 🚀.
+- Always learning
+- Always experimenting
+- Always shipping 🚀.
 
 ---
 
