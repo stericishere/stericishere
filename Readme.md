@@ -62,6 +62,20 @@ I’m passionate about **ML** & **AI**, currently doing research in **Reinforcem
 
 ---
 
+### 👨‍💻 Project
+#### ML:
+- [ML for Adaptive Education](https://github.com/stericishere/ML-for-Adaptive-Education) (IRT, AutoEncoder, KNN, Matrix Factorization, Ensemble)
+---
+#### Reinforcements Learning:
+- [TinyProof](https://github.com/utmgdsc/TinyProof) (R'max tree search)
+- [RL agent play Mini Motorway](https://github.com/stericishere/RL-agent-play-Mini-Motorway) (Deep Q Learning)
+- [RL for airplane onboarding](https://github.com/stericishere/RL-for-airplane-onboarding) (MaskablePPO)
+---
+#### AI Agent:
+- [Interactive Agent SImulation](https://github.com/stericishere/Interactive-AI-Agent-SImulation) (Langchain agent with PAINO architecture)
+
+---
+
 ### 🕹️ Pac-Man Contribution Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stericishere/stericishere/output/pacman-contribution-graph-dark.svg">
