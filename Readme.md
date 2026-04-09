@@ -15,7 +15,7 @@ I’m passionate about **ML** & **AI**, currently doing research in **Reinforcem
 <div align="center">
   
   <!-- GitHub Activity Graph -->
-  [![Steric's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stericishere&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Steric's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <!-- [![Steric's GitHub stats](https://github-readme-stats.vercel.app/api?username=stericishere&show_icons=true&theme=dracula&count_private=true)] -->
 
