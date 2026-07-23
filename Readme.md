@@ -78,6 +78,7 @@ I’m passionate about **ML** & **AI**, currently doing research in **Reinforcem
 
 ### 🕹️ Pac-Man Contribution Graph
 <picture>
+  GitHub: You’re here 🙂
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stericishere/stericishere/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stericishere/stericishere/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/stericishere/stericishere/output/pacman-contribution-graph.svg">
