@@ -55,7 +55,7 @@ I’m passionate about **ML** & **AI**, currently doing research in **Reinforcem
 ---
 
 ### 🌐 Connect With Me
-
+GitHub: You’re here 🙂
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/steric-tsui)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/YOUR_ID)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:steric.tsui@mail.utoronto.ca)
@@ -78,7 +78,6 @@ I’m passionate about **ML** & **AI**, currently doing research in **Reinforcem
 
 ### 🕹️ Pac-Man Contribution Graph
 <picture>
-  GitHub: You’re here 🙂
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stericishere/stericishere/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stericishere/stericishere/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/stericishere/stericishere/output/pacman-contribution-graph.svg">
