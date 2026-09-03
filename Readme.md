@@ -3,7 +3,7 @@
 
 ---
 
-### 👾 Just Love Building Cool Stuff
+### 👾 For the Love of building Cool Stuff
 I’m passionate about **ML** & **AI**, currently doing research in **Reinforcement Learning** and building **AI Agents** for real-world solutions.  
 - Always Learning
 - Always Experimenting
